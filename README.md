@@ -13,9 +13,13 @@ A implementation of beta-VAE and VAE(beta = 1) for Level Set Distribtuion Model(
 ### The performance of Model was evaluated with generalization and specificity indices.
 We compared our model to the conventional LSDM based on PCA
 
+<img src="https://github.com/Silver-L/VAE-liver/blob/master/result/GEN.jpg" width="297" height="289" alt="error"/><img src="https://github.com/Silver-L/VAE-liver/blob/master/result/SPE.jpg" width="297" height="289" alt="error"/>
+
 ## Usage
 Input: TFRecord file\
 Training Model: trainer.py\
+Evaluate Model: evaluations.py\
+Plot Latent Space: plot_latent_space.py\
 Reconstructing Image: predict_gen.py\
 Generating Image: predict_spe.py
 
