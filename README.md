@@ -9,6 +9,9 @@ A implementation of beta-VAE and VAE(beta = 1) for Level Set Distribtuion Model(
 4. matplotlib
 5. scipy
 ```
+## Results
+### The performance of Model was evaluated with generalization and specificity indices.
+We compared our model to the conventional LSDM based on PCA
 
 ## Usage
 Input: TFRecord file\
