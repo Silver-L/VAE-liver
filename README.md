@@ -1,5 +1,5 @@
 # beta-VAE for liver
-A implementation of beta-VAE and VAE(beta = 1) for liver
+A implementation of beta-VAE and VAE(beta = 1) for Level Set Distribtuion Model(LSDM) of liver 
 
 ## Requirements
 ```
