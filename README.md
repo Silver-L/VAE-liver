@@ -1,5 +1,5 @@
 # beta-VAE for liver
-A implementation of beta-VAE and VAE(beta = 1)
+A implementation of beta-VAE and VAE(beta = 1) for liver
 
 ## Requirements
 ```
@@ -7,6 +7,7 @@ A implementation of beta-VAE and VAE(beta = 1)
 2. SimpleITK
 3. tqdm
 4. matplotlib
+5. scipy
 ```
 
 ## Usage
