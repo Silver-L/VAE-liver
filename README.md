@@ -17,7 +17,7 @@ A implementation of beta-VAE and VAE(beta = 1) for Level Set Distribtuion Model(
 
 <img src="https://github.com/Silver-L/VAE-liver/blob/master/result/GEN.jpg" width="297" height="289" alt="error"/><img src="https://github.com/Silver-L/VAE-liver/blob/master/result/SPE.jpg" width="297" height="289" alt="error"/>
 
-* Latent Space (bule: training data, orange/pink: test data)
+* Latent Space (blue: training data, orange/pink: test data)
 <img src="https://github.com/Silver-L/VAE-liver/blob/master/result/latent_distribution.PNG" width="350" height="263" alt="error"/>
 
 ## Usage
