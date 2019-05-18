@@ -1,6 +1,8 @@
 # beta-VAE for liver
 A implementation of beta-VAE and VAE(beta = 1) for Level Set Distribtuion Model(LSDM) of liver 
 
+"Construction and Evaluation of a Statistical Shape Model of Liver Using Variational Autoencode", Zhihui Lu et al. 2019 IEEE International Symposium on Biomedical Imaging (ISBI 2019)
+
 ## Requirements
 ```
 1. TensorFlow >= 1.4.0
